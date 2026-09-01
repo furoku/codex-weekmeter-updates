@@ -3,18 +3,18 @@
     <channel>
         <title>Codex Weekmeter</title>
         <item>
-            <title>0.1.4</title>
-            <pubDate>Tue, 01 Sep 2026 13:36:34 +0900</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <title>0.1.5</title>
+            <pubDate>Tue, 01 Sep 2026 19:58:43 +0900</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Codex Weekmeter 0.1.4
+            <description sparkle:format="markdown"><![CDATA[# Codex Weekmeter 0.1.5
 
-- Enter Tibo forecasts in Pacific Time with five-city conversion, view the exact start and reset times above the seven-day meter, and launch Codex Weekmeter at login.
-- Tibo予告の太平洋時間入力と5都市変換、7日メーター上の正確な開始・リセット日時、ログイン時の自動起動に対応しました。
+- Polish the seven-day meter with Token labels in all five languages, a Flat/Liquid appearance toggle, a clearer compact toolbar, and reliable first-time launch-at-login registration.
+- 5言語すべてのToken表示、Flat／Liquid切替、分かりやすいコンパクトな操作配置、ログイン時起動の初回登録改善に対応しました。
 ]]></description>
-            <enclosure url="https://github.com/furoku/codex-weekmeter-updates/releases/download/v0.1.4/Codex-Weekmeter-0.1.4.zip" length="1670915" type="application/octet-stream" sparkle:edSignature="qv/9LB0gnXxq3L3UdG9AK8d9vPQCvzCgEkxdEaXmlkLqcIcW5c5wutiiM6d7Py5ZaeOB21J9A2yHyqZTfkguBg=="/>
+            <enclosure url="https://github.com/furoku/codex-weekmeter-updates/releases/download/v0.1.5/Codex-Weekmeter-0.1.5.zip" length="1685545" type="application/octet-stream" sparkle:edSignature="pDYx2ctnNQbyCpBqm5NJK6JM+kc0x8/NwDmBlw9FUTom4nprrShRhJs1FWBoBC6yhQezenu8kyVjxFfflwB5Ag=="/>
         </item>
     </channel>
 </rss>
