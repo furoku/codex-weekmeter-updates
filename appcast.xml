@@ -3,18 +3,18 @@
     <channel>
         <title>Codex Weekmeter</title>
         <item>
-            <title>0.1.5</title>
-            <pubDate>Tue, 01 Sep 2026 19:58:43 +0900</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+            <title>0.1.6</title>
+            <pubDate>Tue, 01 Sep 2026 20:40:40 +0900</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Codex Weekmeter 0.1.5
+            <description sparkle:format="markdown"><![CDATA[# Codex Weekmeter 0.1.6
 
-- Polish the seven-day meter with Token labels in all five languages, a Flat/Liquid appearance toggle, a clearer compact toolbar, and reliable first-time launch-at-login registration.
-- 5言語すべてのToken表示、Flat／Liquid切替、分かりやすいコンパクトな操作配置、ログイン時起動の初回登録改善に対応しました。
+- Adds native macOS Tahoe Liquid Glass controls, a clearer transparent surface, and an in-app version label.
+- macOS Tahoe標準のLiquid Glass操作、見やすい透明外枠、アプリ内のバージョン表示を追加しました。
 ]]></description>
-            <enclosure url="https://github.com/furoku/codex-weekmeter-updates/releases/download/v0.1.5/Codex-Weekmeter-0.1.5.zip" length="1685545" type="application/octet-stream" sparkle:edSignature="pDYx2ctnNQbyCpBqm5NJK6JM+kc0x8/NwDmBlw9FUTom4nprrShRhJs1FWBoBC6yhQezenu8kyVjxFfflwB5Ag=="/>
+            <enclosure url="https://github.com/furoku/codex-weekmeter-updates/releases/download/v0.1.6/Codex-Weekmeter-0.1.6.zip" length="1701548" type="application/octet-stream" sparkle:edSignature="yv89aPOvA+XKA/QWmZwez/h01U3wK3JiXSRKpsaFb1RzdQlT46G4wgI8Mwc8ht6Rqq6S66HMLkUL3ayAQEyjCw=="/>
         </item>
     </channel>
 </rss>
